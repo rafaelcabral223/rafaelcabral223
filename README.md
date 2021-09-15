@@ -3,7 +3,7 @@
 **I'm 17yo and I'm from Brazil**
 
 - 📕 Studying HTML, CSS and JavaScript
-- 😄 Pronouns: ele/dele he/his
+- 😄 Pronouns: ele/dele he/him
 
 ##
 
