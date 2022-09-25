@@ -1,6 +1,6 @@
 ## Hi, my name is Rafael Cabral 👋
 
-**I'm 17yo and I'm from Brazil**
+**I'm 18yo and I'm from Brazil**
 
 - 📕 I'm good at HTML, CSS and JavaScript
 - :confused: I’m currently learning jQuery and Python
@@ -21,10 +21,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-jQuery" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
- 
- 
-  
+  <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Rafa-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">  
 </div>
   
   ##
