@@ -6,7 +6,7 @@
 - :confused: I’m currently learning TypeScript and Python
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: ele/dele he/him
-- 📚 <a href="https://cursos.alura.com.br/vitrinedev/rafaelcpribeiro">Here you can find some certificates I have and some of my projects.</a>
+- 📚 <a href="https://cursos.alura.com.br/vitrinedev/rafaelcpribeiro">Here you can find some certificates I have and some of my projects</a>
 
 ##
 
