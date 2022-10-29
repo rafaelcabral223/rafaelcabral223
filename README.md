@@ -2,8 +2,8 @@
 
 **I'm 18yo and I'm from Brazil**
 
-- 📕 I'm good at HTML, CSS and JavaScript
-- :confused: I’m currently learning jQuery and Python
+- 📕 I'm good at HTML, CSS, JavaScript and jQuery
+- :confused: I’m currently learning TypeScript and Python
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: ele/dele he/him
 - 📚 <a href="https://cursos.alura.com.br/vitrinedev/rafaelcpribeiro">Here you can find some certificates I have and some of my projects.</a>
