@@ -2,7 +2,7 @@
 
 **I'm 18yo and I'm from Rio de Janeiro, Brazil**
 
-- 📕 I'm good at HTML, CSS (Sass, Bootstrap and Bulma), JavaScript (jQuery and TypeScript) and Python.
+- 📕 I'm good at HTML, CSS, JavaScript, Python, Tailwind, jQuery and TypeScript.
 - 😄 Pronouns: ele/dele he/him
 - 📚 <a href="https://cursos.alura.com.br/vitrinedev/rafaelcpribeiro">Here you can find some certificates I have and some of my projects</a>
 
@@ -13,9 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg">
+  <img align="center" alt="Rafa-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-jQuery" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Rafa-TypeScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
