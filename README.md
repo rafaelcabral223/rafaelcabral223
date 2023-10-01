@@ -1,6 +1,6 @@
 ## Hi, my name is Rafael Cabral 👋
 
-**I'm 18yo and I'm from Rio de Janeiro, Brazil**
+**I'm 19yo and I'm from Rio de Janeiro, Brazil**
 
 - 📕 I'm good at HTML, CSS, JavaScript, Python, Elixir, Tailwind, jQuery and TypeScript.
 - 😄 Pronouns: ele/dele he/him
